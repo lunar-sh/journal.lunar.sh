@@ -1,0 +1,33 @@
+@import "variables";
+
+div.highlight {
+ overflow: unset;
+ margin-bottom: 5px;
+ color: #2b2b2b;
+}
+
+pre.highlight{
+ max-width: 100%;
+ line-height: 1.5;
+ background: #e7e7e7;
+}
+
+code {
+  font-family: "JetBrains Mono";
+  font-size: 13px;
+  font-weight: 400;
+  position: relative;
+  font-variant-ligatures: none;
+}
+
+code img {
+  margin: 0px;
+}
+
+code.language-plaintext {
+  padding: 0.4px 5px;
+  padding-bottom: 0;
+  background: #e3e6e8;
+  border: 1px solid #e3e6e8;
+  font-size: 12px;
+}

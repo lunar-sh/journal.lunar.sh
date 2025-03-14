@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div id="main" role="main" class="index">
+<div class="posts">
+  {% for post in site.posts %}
+  <article class="post">
+    <header>
+      <span title="format: yyyy-mm-dd">{{ post.date | date: "%Y-%m-%d" }} @ journal.lunar.sh</span>
+      <div>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
+      <div class="excerpt">{{ post.excerpt }}</div>
+    </header>
+  </article>
+  {% endfor %}
+  <hr>
+</div>
+<h1 class="title">Publications</h1>
+<div class="aside-container">
+    <div class="avatar">
+      <a href="https://www.nasa.gov/mission/apollo-11/">
+      <img alt="Lunar Journal Logo" src="{{ site.avatar }}">
+      </a>
+    </div>
+    <div class="info">
+    <table>
+      <tbody>
+          <tr>
+              <th>email:</th>
+              <td><a href="mailto:root@lunar.sh">root@lunar.sh</a></td>
+          </tr>
+          <tr>
+              <th>github:</th>
+              <td><a href="https://github.com/lunar-rf">lunar-rf</a></td>
+          </tr>
+          <tr>
+              <th>linktr.ee:</th>
+              <td><a href="https://linktr.ee/lunar.sh">lunar.sh</a></td>
+          </tr>
+          <tr>
+              <th>atom:</th>
+              <td><a href="https://journal.lunar.sh/feed.xml">feed.xml</a></td>
+          </tr>
+      </tbody>
+  </table>
+    </div>
+    <div class="summary">
+      {{ site.description | markdownify }}
+    </div>
+</div>
+<h1 class="title">Lunar Journal</h1>
+</div>
+<div class="footer-container">
+  <div class="footer-content">
+    <p class="muted">
+        Questions, comments? Please send a plain-text email to <a href="mailto:root@lunar.sh">root@lunar.sh</a>
+        with a descriptive subject line and we will try get back to you!
+    </p>
+    <div>Copyright © 2022-2024</div>
+    <div class="revision">
+        <a href="{{ site.github.repository_url }}/tree/{{ site.github.build_revision }}">
+        {{ site.github.build_revision | truncate: 8, "" }}
+        </a>
+    </div>
+    <div>
+      <a href="https://journal.lunar.sh/info.html">
+      <img class="greyscale" title="About Us" src="https://journal.lunar.sh/images/megafon.gif">
+      </a>
+    </div>
+    <div class="footer-love">
+      <strong>Developed</strong> with <i class="fas fa-heart"></i>
+      by <a href="https://labs.lunar.sh"><strong>Lunar RF Labs</strong></a>
+  </div>
+</div>
+</div>
