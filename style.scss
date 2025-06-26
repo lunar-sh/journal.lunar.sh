@@ -140,10 +140,8 @@ div ol {
 }
 
 div ol:first-of-type {
-  border: 1px solid #e3e6e8;
   font-size: 15px;
-  background: #e3e6e8;
-  border: 1px solid #9b9b9b;
+  border: 1px solid #000;
 }
 
 ol li::marker {
