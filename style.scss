@@ -186,7 +186,7 @@ li {
     padding-left: 10px;
 }
 
-div a:hover:not(:has(img)):not(:has(code)):not(:has(nav)) {
+div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
     color: #fafafa;
     background: #000;
 }
