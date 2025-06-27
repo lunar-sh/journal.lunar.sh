@@ -286,12 +286,10 @@ nav {
 .index {
   max-width: 750px;
   margin: 0 auto;
-  padding-bottom: 5px;
   padding-left: 10px;
   padding-right: 10px;
   display: flex;
   flex-direction: column-reverse;
-  margin-bottom: 30px;
 
   @include mobile {
     flex-direction: column-reverse;
