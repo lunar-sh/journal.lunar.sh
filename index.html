@@ -3,6 +3,28 @@ layout: default
 ---
 
 <div id="main" role="main" class="index">
+<div class="footer-container">
+  <div class="footer-content">
+    <p class="muted">
+        Questions, comments? Please send a plain-text email to <a href="mailto:root@lunar.sh">root@lunar.sh</a>
+        with a descriptive subject line and we will try get back to you!
+    </p>
+    <div class="revision">
+        <a href="{{ site.github.repository_url }}/tree/{{ site.github.build_revision }}">
+        {{ site.github.build_revision | truncate: 8, "" }}
+        </a>
+    </div>
+    <div>
+      <a href="https://journal.lunar.sh/info.html">
+      <img class="greyscale" title="About Us" src="https://journal.lunar.sh/images/megafon.gif">
+      </a>
+    </div>
+    <div class="footer-love">
+      <strong>Developed</strong> with <i class="fas fa-heart"></i>
+      by <a href="https://labs.lunar.sh"><strong>Lunar RF Labs</strong></a>
+  </div>
+</div>
+</div>
 <div class="posts">
   {% for post in site.posts %}
   <article class="post">
@@ -16,28 +38,6 @@ layout: default
   {% endfor %}
   <hr>
 </div>
-<div class="footer-container">
-<div class="footer-content">
-  <p class="muted">
-      Questions, comments? Please send a plain-text email to <a href="mailto:root@lunar.sh">root@lunar.sh</a>
-      with a descriptive subject line and we will try get back to you!
-  </p>
-  <div class="revision">
-      <a href="{{ site.github.repository_url }}/tree/{{ site.github.build_revision }}">
-      {{ site.github.build_revision | truncate: 8, "" }}
-      </a>
-  </div>
-  <div>
-    <a href="https://journal.lunar.sh/info.html">
-    <img class="greyscale" title="About Us" src="https://journal.lunar.sh/images/megafon.gif">
-    </a>
-  </div>
-  <div class="footer-love">
-    <strong>Developed</strong> with <i class="fas fa-heart"></i>
-    by <a href="https://labs.lunar.sh"><strong>Lunar RF Labs</strong></a>
-  </div>
-  </div>
-  </div>
 <div class="aside-container">
     <div class="avatar">
       <a href="https://www.nasa.gov/mission/apollo-11/">
