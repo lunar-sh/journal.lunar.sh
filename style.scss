@@ -182,11 +182,6 @@ article > header div {
     font-size: 15px;
 }
 
-div a:hover:not(:has(img)):not(:has(code)) {
-    color: #fafafa;
-    background: #2c2c2c;
-}
-
 li {
     padding-left: 10px;
 }
