@@ -839,5 +839,18 @@ code table tr {
   color: #fff;
 }
 
+.footer-container
+{
+    text-align: left;
+    border-top: 1px solid black;
+}
+
+.footer-content
+{
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 10px;
+}
 
 @import "highlights";
