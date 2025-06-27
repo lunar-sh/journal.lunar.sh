@@ -463,11 +463,14 @@ img {
 }
 
 .sticky {
-  background-color: #0a0b10;
   /* position: sticky; */
   top: 0;
   width: 100%;
   z-index: 5;
+  background: linear-gradient(to right, #0a0b10 60%, #373737);
+    @include mobile {
+    background: #0a0b10;
+  }
 }
 
 .title {
