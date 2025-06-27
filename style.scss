@@ -402,7 +402,6 @@ img {
 .no-decoration {
   text-decoration-line: none;
   color: #fafafa;
-  font-family: $inter;
   user-select: none;
 }
 
@@ -521,9 +520,9 @@ img {
 .site-name {
   margin: 0;
   color: $white;
-  font-family: $inter;
+  font-family: "JetBrains Mono";
   font-weight: bold;
-  font-size: 16px;
+  font-size: 13px;
   background: #1a1a1a;
 }
 
