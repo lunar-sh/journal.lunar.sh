@@ -42,8 +42,6 @@ Equipment List:
 | Hot Air Station        | RS PRO 124-4133        | 700W                  |
 | Workbench Lamp         | Duratool               | 15W LED               |
 
-![Lab Status](https://journal.lunar.sh/images/personal/lab_latest.JPG)
-
 # Cryptocurrency
 
 Please consider supporting the `Lunar Journal`. 
