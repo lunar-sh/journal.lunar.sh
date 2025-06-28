@@ -30,17 +30,17 @@ Currently the `R&D` Lab is well equipped for `VHF` and low band `UHF` design.
 
 Equipment List:
 
-```
-DSO:                      Rigol DS1202Z-E      (250 MHz)
-Vector Network Analyzer:  Siglent SVA1015X     (1.5 GHz)
-Spectrum Analyzer:        Rigol DSA815-TG      (1.5 Ghz)
-Bench Multimeter:         Rigol DM3068         (6.5 digit)
-Function Generator:       GW Instek GFG-8215A  (3 MHz)
-Power Supply:             Rigol DP832          (30V/3A)
-Soldering Station:        RS PRO 65W 202-4487
-Hot Air Station:          RS PRO 700W 124-4133
-Workbench Lamp:           Duratool 15W LED
-```
+| Equipment               | Model                  | Specifications         |
+|------------------------|------------------------|------------------------|
+| DSO                    | Rigol DS1202Z-E        | 250 MHz               |
+| Vector Network Analyzer| Siglent SVA1015X       | 1.5 GHz               |
+| Spectrum Analyzer      | Rigol DSA815-TG        | 1.5 GHz               |
+| Bench Multimeter       | Rigol DM3068           | 6.5 digit             |
+| Function Generator     | GW Instek GFG-8215A    | 3 MHz                 |
+| Power Supply           | Rigol DP832            | 30V / 3A              |
+| Soldering Station      | RS PRO 202-4487        | 65W                   |
+| Hot Air Station        | RS PRO 124-4133        | 700W                  |
+| Workbench Lamp         | Duratool               | 15W LED               |
 
 ![Lab Status](https://journal.lunar.sh/images/personal/lab_latest.JPG)
 
