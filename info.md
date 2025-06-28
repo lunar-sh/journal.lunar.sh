@@ -8,7 +8,7 @@ permalink: /info.html
 
 1. [Lunar Journal](#lunar-journal)
 2. [Lunar RF Labs](#lunar-rf-labs)
-3. [Lab Status](#lab-status)
+3. [Capabilities](#capabilities)
 4. [Cryptocurrency](#cryptocurrency)
 
 # Lunar Journal
@@ -24,7 +24,7 @@ design and prototyping services.
 > We are Lunar RF© Labs, a radio-frequency design laboratory.<br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
-# Lab Status
+# Capabilities
 
 Currently the `R&D` Lab is well equipped for `VHF` and low band `UHF` design.
 
