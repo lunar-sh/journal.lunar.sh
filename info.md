@@ -30,8 +30,8 @@ Currently the `R&D` Lab is well equipped for `VHF` and low band `UHF` design.
 
 Equipment List:
 
-| Category               | Model                  | Specifications         |
-|------------------------|------------------------|------------------------|
+| Category               | Model                  | Specifications          |
+|------------------------|------------------------|-------------------------|
 | DSO                    | Rigol DS1202Z-E        | 0-250 MHz               |
 | Vector Network Analyzer| Siglent SVA1015X       | 0-1.5 GHz               |
 | Spectrum Analyzer      | Rigol DSA815-TG        | 0-1.5 GHz               |
