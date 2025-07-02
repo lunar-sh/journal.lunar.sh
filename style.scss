@@ -191,7 +191,7 @@ li {
 }
 
 ul li::marker {
-    content: "-";
+    content: "+";
 }
 
 div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
