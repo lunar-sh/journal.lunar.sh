@@ -190,6 +190,10 @@ li {
     padding-left: 10px;
 }
 
+ul li::marker {
+    content: "-";
+}
+
 div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
     color: #fafafa;
     background: #000;
