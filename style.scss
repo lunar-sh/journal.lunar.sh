@@ -85,7 +85,11 @@ h1 {
 }
 
 h1, h2, h3, h4 {
- background-color: #c9e3fb;
+   background-color: #c9e3fb;
+}
+
+h1:active, h2:active, h3:active, h4:active {
+  background-color: #fbc9e9;
 }
 
 h2 {
