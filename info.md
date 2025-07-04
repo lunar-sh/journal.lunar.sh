@@ -6,10 +6,9 @@ permalink: /info.html
 
 <meta name="robots" content="noindex">
 
-1. [Lunar Journal](#lunar-journal)
-2. [Lunar RF Labs](#lunar-rf-labs)
-3. [Capabilities](#capabilities)
-4. [Cryptocurrency](#cryptocurrency)
+1. [Lunar RF Labs](#lunar-rf-labs)
+2. [Capabilities](#capabilities)
+3. [Cryptocurrency](#cryptocurrency)
 
 # Lunar RF Labs
 
