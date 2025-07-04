@@ -11,12 +11,10 @@ permalink: /info.html
 3. [Capabilities](#capabilities)
 4. [Cryptocurrency](#cryptocurrency)
 
-# Lunar Journal
+# Lunar RF Labs
 
 The `Lunar Journal` started as a project to document various technical efforts that
 other engineers or researchers might find helpful or interesting.
-
-# Lunar RF Labs
 
 `Lunar RF Labs` is a `RF` electronics design laboratory that provides high-quality `RF`/`PCB`
 design and prototyping services. 
