@@ -714,13 +714,12 @@ code table tr {
 
 .rouge-gutter {
     user-select: none;
-    background: #ebebeb;
-    min-width: 27.41px;
+    background: #dfdfdf;
     text-align: right;
     border-right: 1px solid #000;
     padding-right: 10px;
     min-width: 33px;
-    border-right-style: solid;
+    border-right-style: none;
 }
 
 .rouge-code {
