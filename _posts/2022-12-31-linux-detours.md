@@ -276,7 +276,7 @@ The general procedure to place the `JMP` hook is as follows:
 6. Assign trampoline address to target function pointer.
 
 Let's have a look at all of this in action using `GDB`. I will be using the
-[basic_jmp.c](https://github.com/lunarbin/cdl86/blob/master/tests/basic_jmp.c)
+[basic_jmp.c](https://github.com/lunar-sh/cdl86/blob/master/tests/basic_jmp.c)
 test case in the `cdl86` library. The source code for this test case is shown
 below:
 
@@ -532,7 +532,7 @@ and serves the same purpose.
 `cdl86` assumes that you are operating in the address space of the target
 process. Therefore code injection is often required in practice and requires the
 use of an
-[injector](https://github.com/lunarbin/robocraft/tree/main/injector).
+[injector](https://github.com/lunar-sh/robocraft/tree/main/injector).
 
 Once a shared library (`.so`) has been injected you can use the following code
 to get the base address of the main executable module:
