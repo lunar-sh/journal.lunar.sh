@@ -229,16 +229,17 @@ nav {
     border-radius: 0px;
   }
 
-    text-align: right;
+    text-align: center;
     font-weight: 500;
-    padding: 6px;
-    color: $white;
+    padding: 5px;
+    color: #fafafa;
     text-decoration-line: none;
     background: #000;
     font-size: 13px;
     border: 1px solid #fafafa;
-    margin-right: 2px;
-    padding-top: 5px;
+    margin-right: 1px;
+    display: inline-block;
+    min-width: 64px;
   }
 }
 
