@@ -206,6 +206,7 @@ div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
 }
 
 nav {
+  display: flex;
   float: right;
   margin-top: 23px;
   font-family: $inter;
@@ -237,7 +238,7 @@ nav {
     background: #000;
     font-size: 13px;
     border: 1px solid #fafafa;
-    margin-right: 1px;
+    margin-right: 4px;
     display: inline-block;
     min-width: 64px;
   }
