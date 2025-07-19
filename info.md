@@ -23,7 +23,7 @@ design and prototyping services.
 
 # Capabilities
 
-Currently the `R&D` Lab is well equipped for `VHF` and low band `UHF` design.
+Currently the `R&D` Lab is well equipped for `RF` circuit design up to `500 MHz`.
 
 Equipment List:
 
