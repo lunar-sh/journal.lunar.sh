@@ -21,7 +21,7 @@ Note: This article details the linux specific details of the library. Windows
 support has since been added.
 
 See:
-[https://github.com/lunarjournal/cdl86](https://github.com/lunarjournal/cdl86)
+[https://github.com/lunar-sh/cdl86](https://github.com/lunar-sh/cdl86)
 
 [Microsoft Research](https://en.wikipedia.org/wiki/Microsoft_Research) currently
 maintains a library known as [MS Detours](https://github.com/microsoft/Detours).
@@ -572,7 +572,7 @@ void cdl_swbp_dbg(struct cdl_swbp_patch *swbp_patch);
 
 # Source code
 You can find the `cdl86` source code
-[here](https://github.com/lunarjournal/cdl86).<br>
+[here](https://github.com/lunar-sh/cdl86).<br>
 
 # Signature
 
