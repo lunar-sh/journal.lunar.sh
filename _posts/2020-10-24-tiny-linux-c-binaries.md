@@ -366,10 +366,10 @@ Source code used in this `journal` is available at:
 
 ```
 +---------------------------------------+
-|   .-.         .-.         .-.         |
-|  /   \       /   \       /   \        |
-|       \     /     \     /     \    /  |
-|         "_"         "_"         "_"   |
+|     .-.       .-.       .-.           |
+|    /   \     /   \     /   \     +    |
+|         \   /     \   /     \   /     |
+|          "_"       "_"       "_"      |
 |                                       |
 |  _   _   _ _  _   _   ___   ___ _  _  |
 | | | | | | | \| | /_\ | _ \ / __| || | |
@@ -381,7 +381,7 @@ Source code used in this `journal` is available at:
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
-| Copyright (C) 2022-2025               |
+| Copyright (C) 2022-2024               |
 |                                       |
 +---------------------------------------+
 ```
