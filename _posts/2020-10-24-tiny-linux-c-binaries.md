@@ -385,4 +385,3 @@ Source code used in this `journal` is available at:
 |                                       |
 +---------------------------------------+
 ```
-
