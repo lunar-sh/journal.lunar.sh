@@ -65,7 +65,6 @@ Your support helps us publish new technical content for engineers and researcher
 +---------------------------------------+
 |   .-.         .-.         .-.         |
 |  /   \       /   \       /   \        |
-| /     \     /     \     /     \     / |
 |        \   /       \   /       \   /  |
 |         "_"         "_"         "_"   |
 |                                       |
