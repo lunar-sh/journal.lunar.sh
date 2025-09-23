@@ -348,8 +348,6 @@ img {
   margin-bottom: 15px;
   margin-top: 15px;
   user-select: none;
-  mix-blend-mode: multiply;
-  image-rendering: pixelated;
   
   @include mobile {
      height: 100%;
