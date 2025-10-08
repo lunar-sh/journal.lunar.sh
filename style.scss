@@ -505,7 +505,8 @@ img {
   padding-left: 5px;
   padding-bottom: 2px;
   padding-top: 2px;
-  
+  border-radius: 0px;
+
   @include mobile {
     background: linear-gradient(to right, #272727 80%, #272727);
   }
