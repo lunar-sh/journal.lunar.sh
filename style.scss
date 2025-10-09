@@ -206,6 +206,7 @@ ul li::marker {
 div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
     color: #fafafa;
     background: #000;
+    border-radius: 0;
 }
 
 nav {
