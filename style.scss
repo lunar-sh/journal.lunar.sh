@@ -91,10 +91,10 @@ h1 {
 h1, h2, h3, h4 {
    padding-left: 5px;
    border-radius: 0;
-   background: linear-gradient(to right, #d7dadb 45%, #efefef);
+   background: linear-gradient(to right, #d5d5d5 45%, #efefef);
 
    @include mobile {
-    background: #d7dadb;
+    background: #d5d5d5;
   }
 }
 
@@ -620,7 +620,7 @@ img {
 }
 
 table {
-  background: #d7dadb;
+  background: #d5d5d5;
   padding: 5px;
   display: block;
   width: max-content;
@@ -647,7 +647,7 @@ table tr th {
   text-align: left;
   margin: 0;
   padding: 2px 6px;
-  background: #d7dadb;
+  background: #d5d5d5;
 }
 
 .info table tr th
