@@ -209,7 +209,7 @@ ul li::marker {
 }
 
 div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
-    color: #fafafa;
+    color: #f7f7f7;
     background: #000;
     border-radius: 0;
 }
@@ -243,11 +243,11 @@ nav {
     text-align: center;
     font-weight: 500;
     padding: 5px;
-    color: #fafafa;
+    color: #f7f7f7;
     text-decoration-line: none;
     background: #000;
     font-size: 13px;
-    border: 1px solid #fafafa;
+    border: 1px solid #f7f7f7;
     margin-right: 4px;
     display: inline-block;
     min-width: 64px;
@@ -261,7 +261,7 @@ nav {
   align-items: center;
   padding: 0px;
   border: 1px solid;
-  background: #fafafa;
+  background: #f7f7f7;
 
   @include mobile {
     width: auto;
@@ -278,7 +278,7 @@ nav {
     width: 8px;
     height: 3px;
     vertical-align: bottom;
-    background-color: #fafafa;
+    background-color: #f7f7f7;
     margin-bottom: 2px;
     animation: blink 0.5s steps(1, start) infinite;
 }
@@ -418,7 +418,7 @@ img {
 }
 
 .header-link{
-  color: #fafafa;
+  color: #f7f7f7;
 }
 
 .clearfix:after {
@@ -431,7 +431,7 @@ img {
 
 .no-decoration {
   text-decoration-line: none;
-  color: #fafafa;
+  color: #f7f7f7;
 }
 
 .youtube {
@@ -565,7 +565,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #fafafa;
+  color: #f7f7f7;
   font-size: 15px;
   width: 400px;
   margin-top: 10px;
@@ -599,7 +599,7 @@ img {
     color: black;
     font-size: 15px;
     margin: 15px 0;
-    background: #fafafa;
+    background: #f7f7f7;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
   }
@@ -696,7 +696,7 @@ table tr td :last-child {
 }
 
 .info table {
-  background: #fafafa;
+  background: #f7f7f7;
   padding: 0;
   border: 0;
 }
