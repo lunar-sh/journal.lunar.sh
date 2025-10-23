@@ -28,8 +28,6 @@ The `Lunar Journal` is designed from the ground up to be:
 - `ASCII` / `space` efficient.
 - markdown based.
 
-> Note: Fancy `JS/TS` frameworks/bloat will never be permitted in this repo.
-
 # Build info
 
 Install dependencies for (`Debian`) with:
