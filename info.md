@@ -37,7 +37,6 @@ Equipment List:
 | Power Supply           | Rigol DP832            | 30V / 3A                |
 | Soldering Station      | RS PRO 202-4487        | 65W                     |
 | Hot Air Station        | RS PRO 124-4133        | 700W                    |
-| Workbench Lamp         | Duratool               | 15W LED                 |
 
 # Cryptocurrency
 
