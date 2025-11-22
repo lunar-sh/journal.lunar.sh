@@ -18,7 +18,7 @@ other engineers or researchers might find helpful or interesting.
 `Lunar RF Labs` is a `RF` electronics design laboratory that provides wireless IoT
 design and prototyping services. 
 
-> We are Lunar RF Labs, a wireless IoT design laboratory.<br>
+> We are Lunar RF Labs, a wireless IoT product design laboratory.<br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
 # Capabilities
