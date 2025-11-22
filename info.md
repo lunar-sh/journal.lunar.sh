@@ -15,7 +15,7 @@ permalink: /info.html
 The `Lunar Journal` started as a project to document various technical efforts that
 other engineers or researchers might find helpful or interesting.
 
-`Lunar RF Labs` is a `RF` electronics design laboratory that provides high-quality `RF`/`PCB`
+`Lunar RF Labs` is a `RF` electronics design laboratory that provides wireless IoT
 design and prototyping services. 
 
 > We are Lunar RF Labs, a wireless IoT design laboratory.<br>
