@@ -19,7 +19,7 @@
 
 # RSS Feed
 
-`RSS / Atom` : [`journal.lunar.sh/feed.xml`](https://journal.lunar.sh/feed.xml)
+`RSS / Atom` : [`https://journal.lunar.sh/feed.xml`](https://journal.lunar.sh/feed.xml)
 
 # Source
 
