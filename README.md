@@ -15,7 +15,7 @@
 
 > Technical journal for engineers, hobbyists and makers.
 
-`email`: [`root@lunar.sh`](mailto:root@lunar.sh)
+`Email`: [`root@lunar.sh`](mailto:root@lunar.sh)
 
 # RSS Feed
 
