@@ -15,8 +15,12 @@ permalink: /info.html
 The `Lunar Journal` started as a project to document various technical efforts that
 other engineers or researchers might find helpful or interesting.
 
+Authors:
+
+[Dylan Müller](https://files.lunar.sh/docs/RESUME_DMULLER.pdf) (MSc EE)
+
 `Lunar RF Labs` is a `RF` electronics design laboratory that provides wireless IoT
-design and prototyping services. 
+design and prototyping services.
 
 > We are Lunar RF Labs, a wireless IoT product design laboratory.<br>
 [labs.lunar.sh](https://labs.lunar.sh)
