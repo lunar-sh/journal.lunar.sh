@@ -25,7 +25,7 @@ design and prototyping services.
 
 # Capabilities
 
-Currently the `R&D` Lab is well equipped for `RF` circuit design up to `1 GHz`.
+Currently the `R&D` Lab is well equipped for `LoRa` based wireless design up to `1 GHz`.
 
 Equipment List:
 
