@@ -29,6 +29,8 @@ your next `IoT` project.
 
 # Capabilities
 
+![](https://journal.lunar.sh/images/lab_latest.jpeg)
+
 Currently the `R&D lab` is well equipped for `LoRa®` based wireless design up to `1 GHz`.
 
 Equipment List:
