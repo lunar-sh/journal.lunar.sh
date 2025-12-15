@@ -43,6 +43,10 @@ kramdown:
 sass:
   style: :expanded
 
+collections:
+  featured:
+    output: true
+
 gems:
   - jekyll-feed
   - jekyll-sitemap
