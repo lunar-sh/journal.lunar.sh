@@ -46,6 +46,7 @@ sass:
 collections:
   featured:
     output: true
+    permalink: /:year/:title.html
 
 gems:
   - jekyll-feed
