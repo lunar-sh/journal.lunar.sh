@@ -4,7 +4,7 @@ layout: default
 
 <div id="main" role="main" class="index">
 <div class="posts">
-   {% for post in site.featured | sort: 'date' | reverse %}
+   {% for post in site.featured | reverse %}
   <article class="post">
     <header>
       <span title="format: yyyy-mm-dd">{{ post.date | date: "%Y-%m-%d" }} @ journal.lunar.sh</span>
