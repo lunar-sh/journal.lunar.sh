@@ -31,6 +31,8 @@ your next `IoT` project.
 
 Currently the `R&D lab` is well equipped for `LoRa®` based wireless design up to `1 GHz`.
 
+<img style="margin: 0;" src="https://journal.lunar.sh/images/lab_latest.jpeg"/>
+
 Equipment List:
 
 | Category               | Model                  | Specifications          |
@@ -42,8 +44,6 @@ Equipment List:
 | Power Supply           | Rigol DP832            | 30V / 3A                |
 | Soldering Station      | RS PRO 202-4487        | 65W                     |
 | Hot Air Station        | RS PRO 124-4133        | 700W                    |
-
-<img style="margin: 0;" src="https://journal.lunar.sh/images/lab_latest.jpeg"/>
 
 # Cryptocurrency
 
