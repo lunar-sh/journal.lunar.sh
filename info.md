@@ -17,10 +17,10 @@ other engineers or researchers might find helpful or interesting.
 
 Founder: [Dylan Müller](https://files.lunar.sh/docs/RESUME_DMULLER.pdf) (MSc EE)
 
-`Lunar RF Labs` is a wireless `IoT` product design laboratory that provides 
+`Lunar RF Labs` is a wireless `IoT` module design laboratory that provides 
 affordable research and development `(R&D)` services.
 
-> We are Lunar RF Labs, a wireless IoT product design laboratory.<br>
+> We are Lunar RF Labs, a wireless IoT module design laboratory.<br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
 # Capabilities
