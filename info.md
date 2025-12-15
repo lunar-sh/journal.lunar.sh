@@ -43,7 +43,7 @@ Equipment List:
 | Soldering Station      | RS PRO 202-4487        | 65W                     |
 | Hot Air Station        | RS PRO 124-4133        | 700W                    |
 
-![](https://journal.lunar.sh/images/lab_latest.jpeg)
+<img style="float: left;" src="https://journal.lunar.sh/images/lab_latest.jpeg"/>
 
 # Cryptocurrency
 
