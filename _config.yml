@@ -49,19 +49,17 @@ collections:
     permalink: /:year/:title.html
     sort_by: 'date'
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-github-metadata
   - jemoji
+  - jekyll-paginate-v2
 
 pagination:
   enabled: true
   per_page: 5
   permalink: '/page/:num/'
-
-plugins:
-  - jekyll-paginate-v2
 
 exclude:
   - Gemfile
