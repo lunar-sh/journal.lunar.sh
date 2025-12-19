@@ -49,11 +49,12 @@ collections:
     permalink: /:year/:title.html
     sort_by: 'date'
 
-plugins:
+gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-github-metadata
   - jemoji
+plugins:
   - jekyll-paginate-v2
 
 pagination:
