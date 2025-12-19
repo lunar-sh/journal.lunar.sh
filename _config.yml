@@ -54,6 +54,7 @@ gems:
   - jekyll-sitemap
   - jekyll-github-metadata
   - jemoji
+
 plugins:
   - jekyll-paginate
 
