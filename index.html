@@ -30,7 +30,8 @@ layout: default
     {% endfor %}
     <div class="pagination">
       <span class="page_number ">
-        Page: <code class="language-plaintext highlighter-rouge">{{ paginator.page }}</code> of <code class="language-plaintext highlighter-rouge">{{ paginator.total_pages }}</code>
+        Page: <code class="language-plaintext highlighter-rouge">{{ paginator.page }}</code> of <code
+          class="language-plaintext highlighter-rouge">{{ paginator.total_pages }}</code>
       </span>
       {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}#pubs" class="previous">

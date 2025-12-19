@@ -18,25 +18,25 @@ For inquiries, contact root@lunar.sh.
   <meta name="author" content="Dylan Müller" />
   <meta name="copyright" content="Dylan Müller" />
 
-<style>
-html {
-  visibility: hidden;
-  opacity: 0;
-}
-</style>
-<script>
-  document.fonts.ready.then(() => {
-    document.documentElement.style.visibility = "visible";
-    document.documentElement.style.opacity = "1";
-  });
-</script>
+  <style>
+    html {
+      visibility: hidden;
+      opacity: 0;
+    }
+  </style>
+  <script>
+    document.fonts.ready.then(() => {
+      document.documentElement.style.visibility = "visible";
+      document.documentElement.style.opacity = "1";
+    });
+  </script>
 
   <script>
-  console.log("Lunar Journal (c) 2022-2024");
-  console.log("https://journal.lunar.sh");
-  console.log("email: root@lunar.sh");
-  console.log("atom: https://journal.lunar.sh/feed.xml")
-  console.log(`
+    console.log("Lunar Journal (c) 2022-2024");
+    console.log("https://journal.lunar.sh");
+    console.log("email: root@lunar.sh");
+    console.log("atom: https://journal.lunar.sh/feed.xml")
+    console.log(`
 +---------------------------------------+
 |     .-.       .-.       .-.           |
 |    /   \\     /   \\     /   \\     +    |
@@ -61,10 +61,10 @@ html {
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JJM07YZF2W"></script>
   <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-JJM07YZF2W');
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-JJM07YZF2W');
   </script>
   <title>Lunar RF Labs | {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
   {% include meta.html %}
@@ -73,9 +73,7 @@ html {
   <meta name="image" property="og:image" content="/images/logo_space.jpg" />
   <link rel="icon" href="/assets/lunar.ico" type="image/x-icon">
   <link rel="shortcut icon" href="/assets/lunar.ico" type="image/x-icon">
-  <link rel="alternate" type="application/rss+xml" 
-        title="RSS" 
-        href="https://journal.lunar.sh/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://journal.lunar.sh/feed.xml">
 </head>
 
 <body>
@@ -84,7 +82,7 @@ html {
       <header class="site-header clearfix">
         <div class="site-info">
           <h1 class="site-name"><a class="no-decoration" href="{{ site.baseurl }}/">
-            journal.lunar.sh<span class="caret"></span></a></h1>
+              journal.lunar.sh<span class="caret"></span></a></h1>
           <p class="site-description">{{ site.bio }}</p>
         </div>
         <nav>
@@ -97,13 +95,14 @@ html {
   {{ content }}
 
   <div id="cookieBanner" class="cookies-banner cookies-banner--position-right">
-  <div class="cookies-banner__body">
-    <div class="cookies-banner__paragraph">
-      <a href="https://labs.lunar.sh">Lunar RF Labs</a>, a radio-frequency IoT design laboratory, presents the <a href="https://journal.lunar.sh">Lunar Journal</a>;
-      A technical journal for engineers, researchers and hobbiyists.  
-    </div>
-    <div class="cookies-banner__paragraph">
-<pre>
+    <div class="cookies-banner__body">
+      <div class="cookies-banner__paragraph">
+        <a href="https://labs.lunar.sh">Lunar RF Labs</a>, a radio-frequency IoT design laboratory, presents the <a
+          href="https://journal.lunar.sh">Lunar Journal</a>;
+        A technical journal for engineers, researchers and hobbiyists.
+      </div>
+      <div class="cookies-banner__paragraph">
+        <pre>
 +---------------------------------------+
 |     .-.       .-.       .-.           |
 |    /   \     /   \     /   \     +    |
@@ -124,33 +123,34 @@ html {
 |                                       |
 +---------------------------------------+
 </pre>
+      </div>
     </div>
+    <button id="closeCookieBanner" class="cookies-banner__close-button">[X]</button>
   </div>
-  <button id="closeCookieBanner" class="cookies-banner__close-button">[X]</button>
-</div>
 
-<script>
-  function setCookie(name, value, days) {
-    const expires = new Date(Date.now() + days * 864e5).toUTCString();
-    document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
-  }
-
-  function getCookie(name) {
-    return document.cookie.split('; ').find(row => row.startsWith(name + '='))?.split('=')[1];
-  }
-
-  window.addEventListener('DOMContentLoaded', () => {
-    const banner = document.getElementById('cookieBanner');
-
-    if (!getCookie('cookieBannerDismissed')) {
-      banner.style.display = 'block';
+  <script>
+    function setCookie(name, value, days) {
+      const expires = new Date(Date.now() + days * 864e5).toUTCString();
+      document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
     }
 
-    document.getElementById('closeCookieBanner').addEventListener('click', () => {
-      setCookie('cookieBannerDismissed', 'true', 1); // expires in 1 day
-      banner.remove();
+    function getCookie(name) {
+      return document.cookie.split('; ').find(row => row.startsWith(name + '='))?.split('=')[1];
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+      const banner = document.getElementById('cookieBanner');
+
+      if (!getCookie('cookieBannerDismissed')) {
+        banner.style.display = 'block';
+      }
+
+      document.getElementById('closeCookieBanner').addEventListener('click', () => {
+        setCookie('cookieBannerDismissed', 'true', 1); // expires in 1 day
+        banner.remove();
+      });
     });
-  });
-</script>
+  </script>
 </body>
+
 </html>
