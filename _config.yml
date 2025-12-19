@@ -55,6 +55,14 @@ gems:
   - jekyll-github-metadata
   - jemoji
 
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+
+plugins:
+  - jekyll-paginate-v2
+
 exclude:
   - Gemfile
   - Gemfile.lock
