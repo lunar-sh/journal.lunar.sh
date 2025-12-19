@@ -55,12 +55,10 @@ gems:
   - jekyll-github-metadata
   - jemoji
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
+paginate: 5
+paginate_path: '/page/:num/'
 
 exclude:
   - Gemfile
