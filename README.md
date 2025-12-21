@@ -30,7 +30,7 @@ The `Lunar Journal` is designed from the ground up to be:
 
 # Build info
 
-Install dependencies for (`Debian`) with:
+Install dependencies for (`Linux (Debian)`) with:
 
 ```
 sudo apt install ruby-rubygems
