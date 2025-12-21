@@ -26,7 +26,7 @@
 The `Lunar Journal` is designed from the ground up to be:
 - Lightweight.
 - `ASCII` / `space` efficient.
-- `Markdown (.md)` based.
+- `Markdown` based.
 
 # Build info
 
