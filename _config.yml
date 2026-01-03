@@ -30,7 +30,7 @@ version: v1.2.0
 
 wallet:
   btc: '34UiJn9VKiEG1etxeLWUt3xQHxwJBR8cL9'
-  ltc: 'LNLeX5CKnDbLea1zrAUAr2bzrfPphbtAjt'
+  ltc: 'ltc1q5duy7lhf09gey04s9hav329acnvvjvurzwlhgf'
 
 kramdown:
   input: GFM
