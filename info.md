@@ -48,8 +48,14 @@ Please consider supporting the `Lunar Journal`.
 
 Your support helps us publish new technical content for engineers and researchers.
 
+<div style="display: inline-block;">
+<img style="width: 100px;" src="https://files.lunar.sh/assets/img/btc.svg"/>
+<img style="width: 100px;" src="https://files.lunar.sh/assets/img/ltc.svg"/>
+<br>
+</div>
+
 * Bitcoin: `{{ site.wallet.btc }}`
-* Ethereum: `{{ site.wallet.ethereum }}`
+* Ethereum: `{{ site.wallet.ltc }}`
 
 # Signature
 
