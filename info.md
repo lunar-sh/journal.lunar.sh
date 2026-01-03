@@ -49,6 +49,7 @@ Please consider supporting the `Lunar Journal`.
 Your support helps us publish new technical content for engineers and researchers.
 
 <img style="width: 80px;margin: 0;" src="https://files.lunar.sh/assets/img/ltc.svg"/>
+<img style="width: 80px;margin: 0;" src="https://files.lunar.sh/assets/img/ltc_qr.png"/>
 
 Litecoin: `{{ site.wallet.ltc }}`
 
