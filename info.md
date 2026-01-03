@@ -8,7 +8,7 @@ permalink: /info.html
 
 1. [Lunar RF Labs](#lunar-rf-labs)
 2. [Capabilities](#capabilities)
-3. [Cryptocurrency](#cryptocurrency)
+3. [Support Us](#support-us)
 
 # Lunar RF Labs
 
@@ -42,7 +42,7 @@ Equipment List:
 | Soldering Station      | RS PRO 202-4487        | 65W                     |
 | Hot Air Station        | RS PRO 124-4133        | 700W                    |
 
-# Cryptocurrency
+# Support Us
 
 Please consider supporting the `Lunar Journal`. 
 
