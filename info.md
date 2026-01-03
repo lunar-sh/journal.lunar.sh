@@ -54,7 +54,7 @@ Your support helps us publish new technical content for engineers and researcher
 <br>
 </div>
 
-Litecoin Ł: `[{{ site.wallet.ltc }}](https://litecoinspace.org/address/{{ site.wallet.ltc }})`
+Litecoin Ł: [`{{ site.wallet.ltc }}`](https://litecoinspace.org/address/{{ site.wallet.ltc }})
 
 # Signature
 
