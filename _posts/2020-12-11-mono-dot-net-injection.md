@@ -4,7 +4,7 @@ title: Mono/.NET Injection Under Linux
 author: Dylan Müller
 ---
 
-> Learning `mono` or `C#` library injection through a [Robocraft](https://robocraftgame.com/) exploit. The method used in
+> Learning `mono` or `C#` library injection through a Robocraft exploit. The method used in
 > this publication can be used to modify a wide range of Unity games.
 
 1. [Mono Overview](#mono-overview)
