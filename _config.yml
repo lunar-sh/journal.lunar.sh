@@ -29,7 +29,7 @@ permalink: /:year/:title.html
 version: v1.2.0
 
 wallet:
-  xmr: 'xmr.lunar.sh'
+  xmr: 'lunar.sh'
 
 kramdown:
   input: GFM
