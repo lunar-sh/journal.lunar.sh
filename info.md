@@ -54,7 +54,7 @@ Your support helps us publish new technical content for engineers and researcher
 <br>
 </div>
 
-Monero (XMR): `{{ site.wallet.xmr }}` (Open-Alias)
+Monero (XMR): `{{ site.wallet.xmr }}` (OpenAlias)
 
 # Signature
 
