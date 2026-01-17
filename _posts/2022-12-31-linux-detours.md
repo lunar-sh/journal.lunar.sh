@@ -593,7 +593,7 @@ You can find the `cdl86` source code
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
+| Donate XMR @ lunar.sh (OpenAlias)     |
 | Copyright (C) 2022-2024               |
-|                                       |
 +---------------------------------------+
 ```
