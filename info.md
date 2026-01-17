@@ -15,8 +15,6 @@ permalink: /info.html
 `Lunar RF Labs` is a `RF` electronics design laboratory that provides wireless
 `IoT` design and prototyping services.
 
-Founder: [Dylan Müller](https://files.lunar.sh/docs/RESUME_DMULLER.pdf) (MSc EE)
-
 Founded in `2021` by an electrical engineer passionate about wireless `IoT` research
 and development, `LunarRF™` modules bring low cost, mission-critical performance to
 your next `IoT` project.
