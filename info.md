@@ -73,7 +73,7 @@ Monero (XMR): `{{ site.wallet.xmr }}` (OpenAlias)
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
+| Donate XMR @ lunar.sh (OpenAlias)     |
 | Copyright (C) 2022-2024               |
-|                                       |
 +---------------------------------------+
 ```
