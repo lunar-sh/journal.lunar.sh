@@ -71,7 +71,7 @@ Your support helps us publish new technical content for engineers and researcher
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
+| Donate XMR @ lunar.sh (OpenAlias)     |
 | Copyright (C) 2022-2024               |
-|                                       |
 +---------------------------------------+
 ```
