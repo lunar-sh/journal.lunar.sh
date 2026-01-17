@@ -50,7 +50,7 @@ Please consider supporting the `Lunar Journal`.
 
 Your support helps us publish new technical content for engineers and researchers.
 
-* Litecoin Ł : `ltc1q5duy7lhf09gey04s9hav329acnvvjvurzwlhgf`
+* Monero (XMR) : `xmr.lunar.sh` (Open-Alias) 
 
 # Signature
 
