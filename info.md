@@ -49,8 +49,8 @@ Please consider supporting the `Lunar Journal`.
 Your support helps us publish new technical content for engineers and researchers.
 
 <div style="display: flex;gap: 10px;">
-<img style="width: 80px;margin: 0;" src="https://files.lunar.sh/assets/img/xmr.svg"/>
-<img style="width: 80px;margin: 0;image-rendering: pixelated;" src="https://files.lunar.sh/assets/img/xmr_qr.png"/>
+<img style="width: 100px;margin: 0;" src="https://files.lunar.sh/assets/img/xmr.svg"/>
+<img style="width: 100px;margin: 0;image-rendering: pixelated;" src="https://files.lunar.sh/assets/img/xmr_qr.png"/>
 <br>
 </div>
 
