@@ -29,8 +29,7 @@ permalink: /:year/:title.html
 version: v1.2.0
 
 wallet:
-  btc: '34UiJn9VKiEG1etxeLWUt3xQHxwJBR8cL9'
-  ltc: 'ltc1q5duy7lhf09gey04s9hav329acnvvjvurzwlhgf'
+  xmr: 'xmr.lunar.sh'
 
 kramdown:
   input: GFM
