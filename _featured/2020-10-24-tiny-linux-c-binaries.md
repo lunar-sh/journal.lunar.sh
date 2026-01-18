@@ -381,7 +381,7 @@ Source code used in this `journal` is available at:
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
-| Donate XMR @ lunar.sh (OpenAlias)     |
+| Donate XMR @ 'lunar.sh' (OpenAlias)   |
 | Copyright (C) 2022-2024               |
 +---------------------------------------+
 ```
