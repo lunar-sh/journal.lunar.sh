@@ -12,7 +12,7 @@
 |                                       |
 |                                       |
 | Lunar RF Labs                         |
-| https://lunar.sh                      |
+| Email: root@lunar.sh                  |
 |                                       |
 | Research Laboratories                 |
 | Donate XMR @ 'lunar.sh' (OpenAlias)   |
