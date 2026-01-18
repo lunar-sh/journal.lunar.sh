@@ -52,7 +52,7 @@ Your support helps us publish new technical content for engineers and researcher
 <br>
 </div>
 
-Monero (XMR): `{{ site.wallet.xmr }}` (OpenAlias)
+OpenAlias (BTC, XMR): `{{ site.wallet.xmr }}`
 
 # Signature
 
