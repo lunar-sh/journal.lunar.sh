@@ -46,7 +46,7 @@ Then run: `jekyll serve` in root directory.
 
 This source code is licensed under [`MIT`](https://opensource.org/license/mit/) (see `LICENSE.txt`).
 
-# Cryptocurrency
+# Support Us
 
 Please consider supporting the `Lunar Journal`. 
 
