@@ -11,7 +11,7 @@
 |__/  
 ```
 
-`Lunar Journal`: [`https://journal.lunar.sh`](https://journal.lunar.sh)
+`Lunar Journal`: [`journal.lunar.sh`](https://journal.lunar.sh)
 
 `gk7d3cxs3h4jntro5la5ecufglywctmmd4w7ws2xpj3w4kwjljcb4pad.onion`
 
