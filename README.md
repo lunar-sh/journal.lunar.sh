@@ -13,8 +13,6 @@
 
 `Lunar Journal`: [`https://journal.lunar.sh`](https://journal.lunar.sh)
 
-`gk7d3cxs3h4jntro5la5ecufglywctmmd4w7ws2xpj3w4kwjljcb4pad.onion`
-
 > Technical journal for engineers, hobbyists and makers.
 
 `Email`: [`root@lunar.sh`](mailto:root@lunar.sh)
