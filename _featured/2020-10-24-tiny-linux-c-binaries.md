@@ -360,7 +360,7 @@ optimisations to get really `tiny` binaries!
 # Source Code
 
 Source code used in this `journal` is available at:
-[https://github.com/lunar-rf/tinybase](https://github.com/lunar-rf/tinybase)
+[https://github.com/lunar-sh/tinybase](https://github.com/lunar-sh/tinybase)
 
 # Signature
 
