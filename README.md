@@ -50,7 +50,7 @@ Please consider supporting the `Lunar Journal`.
 
 Your support helps us publish new technical content for engineers and researchers.
 
-* OpenAlias (BTC, XMR) : `lunar.sh` 
+* [OpenAlias](https://github.com/lunar-sh/openresolve) (BTC, XMR) : `lunar.sh` 
 
 # Signature
 
