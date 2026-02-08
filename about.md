@@ -52,7 +52,7 @@ Your support helps us publish new technical content for engineers and researcher
 <br>
 </div>
 
-[OpenAlias](https://api.lunar.sh/app/openresolve) (BTC, XMR): `{{ site.wallet.xmr }}`
+OpenAlias (BTC, XMR): [`{{ site.wallet.xmr }}`](https://api.lunar.sh/app/openresolve?url=lunar.sh)
 
 # Signature
 
