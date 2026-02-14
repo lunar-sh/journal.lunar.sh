@@ -6,7 +6,7 @@ const createCopyButton = (codeElement) => {
     img.addEventListener('click', () => {
         var codeText = codeElement.querySelector('.rouge-code pre').textContent;
         navigator.clipboard.writeText(codeText).then(() => {
-            img.style.border = "1px solid #00ff00";
+            img.style.border = "1px solid #ff15ed";
         }).catch((err) => {
             console.error('Failed to copy text: ', err);
         });
@@ -25,3 +25,4 @@ window.addEventListener('DOMContentLoaded', function() {
 	    }
 	});
 });
+
