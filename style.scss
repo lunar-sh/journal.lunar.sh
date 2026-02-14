@@ -473,15 +473,7 @@ img {
   font-family: "JetBrains Mono";
   font-size: 13px;
   user-select: none;
-  background: linear-gradient(
-    90deg,
-    #994466,  /* dark magenta */
-    #7766aa,  /* deep lavender */
-    #336688,  /* steel blue */
-    #3a506b,  /* muted slate */
-    #4433aa,  /* dark indigo */
-    #994466   /* back to magenta */
-  );
+  background: linear-gradient(90deg, #b35077, #8e62b7, #3ea99f, #3a7ca3, #9f58c1, #b9577e);
   background-size: 300%;
   background-clip: text;
   -webkit-background-clip: text;
