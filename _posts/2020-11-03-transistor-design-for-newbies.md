@@ -90,8 +90,6 @@ In contrast `phosphorus` `[P]` dopant has a valency of `5`, again there is a mis
 `phosphorus` to move freely through the crystal structure and giving the overall
 crystal layer a negative polarity, the `n` type layer.
 
-![enter image description here](https://journal.lunar.sh/images/3/04.png){:height="200px"}
-
 If we were to place an `n` region and `p` region together we would form an
 electronic device known as a diode. A diode is a `2` terminal device (with the `n`
 side connected to the negative terminal (`cathode`) and `p` side connected to the
