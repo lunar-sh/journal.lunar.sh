@@ -4,6 +4,7 @@ div.highlight {
  overflow: unset;
  margin-bottom: 5px;
  color: #b7b7b7;
+ border: 1px solid #535353;
 }
 
 pre.highlight{
@@ -22,6 +23,7 @@ code {
 
 code img {
   margin: 0px;
+  filter: invert(0.7);
 }
 
 code.language-plaintext {
