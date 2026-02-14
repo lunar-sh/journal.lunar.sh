@@ -92,7 +92,7 @@ h1 {
 h1, h2, h3, h4 {
    padding-left: 5px;
    border-radius: 0;
-   background: linear-gradient(to right, #2d2c2c 45%, #171717);
+   background: linear-gradient(to right, #211f26 45%, #171717);
 
    @include mobile {
     background: #2d2c2c;
