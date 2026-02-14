@@ -19,7 +19,7 @@ For inquiries, contact root@lunar.sh.
 @import "variables";
 
 * {
-    /* border-radius: 2px; */
+    border-radius: 2px;
 }
 
 html {
@@ -44,7 +44,7 @@ html {
 }
 
 body {
-  background: $white;
+  background: #171717;
   font: 15px $inter;
   line-height: 1.5;
   color: $black;
@@ -133,7 +133,7 @@ p:has(img):not(:has(img.emoji)) {
 }
 
 a {
-  color: $black;
+  color: #b7b7b7;
   text-decoration-line: underline;
   cursor: pointer;
 }
@@ -191,7 +191,7 @@ b {
 
 article > header span {
   display: block;
-  color: #000;
+  color: #b7b7b7;
   white-space: nowrap;
   font-size: 15px;
   margin-top: 1px;
@@ -210,7 +210,6 @@ ul li::marker {
 }
 
 div a:hover:not(:has(img)):not(:has(code)):not(nav *) {
-    color: #efefef;
     background: #000;
     border-radius: 0;
 }
@@ -244,11 +243,11 @@ nav {
     text-align: center;
     font-weight: 500;
     padding: 5px;
-    color: #efefef;
+    color: #d9d9d9;
     text-decoration-line: none;
     background: #000;
     font-size: 13px;
-    border: 1px solid #efefef;
+    border: 1px solid #535353;
     margin-right: 4px;
     display: inline-block;
     min-width: 64px;
@@ -261,8 +260,8 @@ nav {
   gap: 20px;
   align-items: center;
   padding: 0px;
-  border: 1px solid;
-  background: #efefef;
+  border: 1px solid #535353;
+  background: #211f26;
 
   @include mobile {
     width: auto;
@@ -270,7 +269,7 @@ nav {
     height: auto;
     border: none;
     display: block;
-    background: #efefef;
+    background: #211f26;
   }
 }
 
@@ -405,7 +404,7 @@ img {
 }
 
 .muted {
-  color: $black;
+  color: #b7b7b7;
 }
 
 .reference {
@@ -420,7 +419,7 @@ img {
 }
 
 .header-link{
-  color: #efefef;
+  color: #b7b7b7;
 }
 
 .clearfix:after {
@@ -500,24 +499,25 @@ img {
   top: 0;
   width: 100%;
   z-index: 5;
-  background: #0a0b10;
+  background: #211f26;
+  border-bottom: 1px solid #535353;
     @include mobile {
-    background: #0a0b10;
+    background: #211f26;
   }
 }
 
 .title {
   margin-top: 20px;
   margin-bottom: 15px;
-  background: linear-gradient(to right, #0a0b10 45%, #efefef);
-  color: white;
+  background: linear-gradient(to right, #2d2c2c 45%, #171717);
+  color: #b7b7b7;
   padding-left: 5px;
   padding-bottom: 2px;
   padding-top: 2px;
   border-radius: 0px;
 
   @include mobile {
-    background: linear-gradient(to right, #272727 80%, #272727);
+    background: linear-gradient(to right, #2d2c2c 45%, #2d2c2c);
   }
 }
 
@@ -557,7 +557,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: #b7b7b7;
   font-family: "IBM Plex Sans";
   font-weight: bold;
   font-size: 14px;
@@ -567,7 +567,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #efefef;
+  color: #b7b7b7;
   font-size: 15px;
   width: 400px;
   margin-top: 10px;
@@ -595,13 +595,13 @@ img {
 
 .post {
   blockquote {
-    border: 1px solid $black;
-    border-left: 5px solid #a7a7a7;
+    border: 1px solid #535353;
+    /* border-left: 5px solid #a7a7a7; */
     padding: 5px 1rem;
     color: black;
     font-size: 15px;
     margin: 15px 0;
-    background: #efefef;
+    background: #211f26;
   }
 
   .comments {
@@ -653,6 +653,7 @@ table tr th {
 {
   background: none;
   border-bottom: none;
+  color: #b7b7b7;
 }
 
 table tr td {
@@ -759,7 +760,7 @@ code table tr {
   line-height: 1.5;
   display: inline-block;
   font-size: 15px;
-  color: #000;
+  color: #a1a1a1;
   padding-right: 20px;
 }
 
@@ -804,7 +805,7 @@ code table tr {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    border: 1px solid #ffffff;
+    border: 1px solid #535353;
   }
 
 .cookies-banner--position-right {
@@ -851,7 +852,7 @@ code table tr {
     margin: 0 0 16px;
   }
   a {
-    color: white;
+    color: #b7b7b7;
   }
 }
 
@@ -905,6 +906,7 @@ code table tr {
 .pagination
 {
     margin-top: 20px;
+    color: #b7b7b7;
 }
 
 @import "highlights";
