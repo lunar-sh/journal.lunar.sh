@@ -362,6 +362,7 @@ img {
   margin-top: 15px;
   user-select: none;
   border-radius: 0px;
+  filter: brightness(80%);
   /* mix-blend-mode: multiply; */
   
   @include mobile {
