@@ -513,7 +513,7 @@ img {
 .title {
   margin-top: 20px;
   margin-bottom: 15px;
-  background: linear-gradient(to right, #2d2c2c 45%, #171717);
+  background: linear-gradient(to right, #211f26 45%, #171717);
   color: #b7b7b7;
   padding-left: 5px;
   padding-bottom: 2px;
@@ -521,7 +521,7 @@ img {
   border-radius: 0px;
 
   @include mobile {
-    background: linear-gradient(to right, #2d2c2c 45%, #2d2c2c);
+    background: linear-gradient(to right, #211f26 45%, #211f26);
   }
 }
 
