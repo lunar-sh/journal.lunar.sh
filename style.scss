@@ -359,7 +359,7 @@ img {
   margin-bottom: 15px;
   margin-top: 15px;
   user-select: none;
-  mix-blend-mode: multiply;
+  /* mix-blend-mode: multiply; */
   
   @include mobile {
      height: 100%;
@@ -598,7 +598,7 @@ img {
     border: 1px solid #535353;
     /* border-left: 5px solid #a7a7a7; */
     padding: 5px 1rem;
-    color: black;
+    color: #b7b7b7;
     font-size: 15px;
     margin: 15px 0;
     background: #211f26;
