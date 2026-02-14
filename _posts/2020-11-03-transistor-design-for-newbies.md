@@ -117,8 +117,6 @@ It is equivalent to having a water valve initially shut tight and requiring a
 torque in order to get water flowing. A typical value for the barrier potential
 of garden variety diodes is between `0.3v-0.7v`.
 
-![enter image description here](https://journal.lunar.sh/images/3/03.gif)
-
 A bipolar junction transistor (`BJT`) may be viewed as a combination of two diodes
 (shown below for an `NPN` transistor):
 
@@ -148,8 +146,6 @@ difference across them.
 For the current flow from base to emitter, there is the `base-emitter` voltage
 drop $$V_{BE}$$ and from collector to emitter there is the `collector-emitter`
 voltage drop $$V_{CE}$$ :
-
-![enter image description here](https://journal.lunar.sh/images/3/07.gif){:height="200px"}
 
 The values of $$V_{CE}$$, $$V_{BE}$$ and $$V_{CB}$$ have predictable
 values for the three modes of operation of a transistor, these are:
