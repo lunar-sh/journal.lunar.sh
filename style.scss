@@ -47,7 +47,7 @@ body {
   background: #171717;
   font: 15px $inter;
   line-height: 1.5;
-  color: $black;
+  color: #b7b7b7;
   scroll-behavior: smooth;
   font-weight: 400;
 }
@@ -92,7 +92,7 @@ h1 {
 h1, h2, h3, h4 {
    padding-left: 5px;
    border-radius: 0;
-   background: linear-gradient(to right, #d5d5d5 45%, #efefef);
+   background: linear-gradient(to right, #2d2c2c 45%, #171717);
 
    @include mobile {
     background: #d5d5d5;
@@ -154,13 +154,14 @@ ul {
 }
 
 div ol {
+  color: #b7b7b7;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 div ol:first-of-type {
   font-size: 15px;
-  border: 1px solid #000;
+  border: 1px solid #535353;
 }
 
 ol li::marker {
@@ -396,11 +397,11 @@ img {
 }
 
 .date {
-  color: $black;
+  color: #b7b7b7;
 }
 
 .author {
-  color: $black;
+  color: #b7b7b7;
 }
 
 .muted {
@@ -408,7 +409,7 @@ img {
 }
 
 .reference {
-  color: $black;
+  color: #b7b7b7;
   margin-top: 5px;
 }
 
@@ -461,6 +462,7 @@ img {
 }
 
 .ascii {
+  color: #b7b7b7;
   line-height: 15px;
   display: flex;
   justify-content: center;
