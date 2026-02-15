@@ -29,10 +29,10 @@ html {
 }
 
 ::-webkit-scrollbar {
-    background-color: #e5e5e5;
+    background-color: #000;
     color: #a3a3a3;
-    width: 7px;
-    height: 7px;
+    width: 8px;
+    height: 8px;
 }
 
 ::-webkit-scrollbar-corner {
@@ -40,7 +40,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #949494;
+    background-color: #717171;
 }
 
 body {
