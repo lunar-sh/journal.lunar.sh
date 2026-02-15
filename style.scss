@@ -47,7 +47,7 @@ body {
   background: #171717;
   font: 15px $inter;
   line-height: 1.5;
-  color: #b7b7b7;
+  color: #d9d9d9;
   scroll-behavior: smooth;
   font-weight: 400;
 }
@@ -134,7 +134,7 @@ p:has(img):not(:has(img.emoji)) {
 }
 
 a {
-  color: #b7b7b7;
+  color: #d9d9d9;
   text-decoration-line: underline;
   cursor: pointer;
 }
@@ -155,7 +155,7 @@ ul {
 }
 
 div ol {
-  color: #b7b7b7;
+  color: #d9d9d9;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -194,7 +194,7 @@ b {
 
 article > header span {
   display: block;
-  color: #b7b7b7;
+  color: #d9d9d9;
   white-space: nowrap;
   font-size: 15px;
   margin-top: 1px;
@@ -412,7 +412,7 @@ img {
 }
 
 .reference {
-  color: #b7b7b7;
+  color: #d9d9d9;
   margin-top: 5px;
 }
 
@@ -465,7 +465,7 @@ img {
 }
 
 .ascii {
-  color: #b7b7b7;
+  color: #d9d9d9;
   line-height: 15px;
   display: flex;
   justify-content: center;
@@ -556,7 +556,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #b7b7b7;
+  color: #d9d9d9;
   font-family: "IBM Plex Sans";
   font-weight: bold;
   font-size: 14px;
@@ -599,7 +599,7 @@ img {
     border: 1px solid #535353;
     /* border-left: 5px solid #a7a7a7; */
     padding: 5px 1rem;
-    color: #b7b7b7;
+    color: #d9d9d9;
     font-size: 15px;
     margin: 15px 0;
     background: #211f26;
@@ -655,7 +655,7 @@ table tr th {
 {
   background: none;
   border-bottom: none;
-  color: #b7b7b7;
+  color: #d9d9d9;
 }
 
 table tr td {
@@ -776,7 +776,7 @@ code table tr {
   margin-top: 30px;
   font-size: 14px;
   font-family: $inter;
-  color: #b7b7b7;
+  color: #d9d9d9;
   padding-bottom: 33px;
 }
 
@@ -911,7 +911,7 @@ code table tr {
 .pagination
 {
     margin-top: 20px;
-    color: #b7b7b7;
+    color: #d9d9d9;
 }
 
 .cookies-banner__paragraph a {
