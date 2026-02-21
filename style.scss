@@ -920,4 +920,8 @@ code table tr {
     color: white !important;
 }
 
+nav a:active {
+    border-color: #12cf45;
+}
+
 @import "highlights";
