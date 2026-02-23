@@ -92,11 +92,11 @@ h1 {
 h1, h2, h3, h4 {
    padding-left: 5px;
    border-radius: 0;
-   background: linear-gradient(to right, #211f26 45%, #171717);
+   background: linear-gradient(to right, #2a2a2f 45%, #171717);
    border: 1px solid #535353;
 
    @include mobile {
-    background: #211f26;
+    background: #2a2a2f;
   }
 }
 
@@ -163,7 +163,7 @@ div ol {
 div ol:first-of-type {
   font-size: 15px;
   border: 1px solid #535353;
-  background: #211f26;
+  background: #2a2a2f;
 }
 
 ol li::marker {
@@ -264,14 +264,14 @@ nav {
   align-items: center;
   padding: 0px;
   border: 1px solid #535353;
-  background: #211f26;
+  background: #2a2a2f;
 
   @include mobile {
     width: auto;
     padding: 15px;
     height: auto;
     display: block;
-    background: #211f26;
+    background: #2a2a2f;
   }
 }
 
@@ -497,7 +497,7 @@ img {
   top: 0;
   width: 100%;
   z-index: 5;
-  background: #211f26;
+  background: #2a2a2f;
   border-bottom: 1px solid #535353;
     @include mobile {
     background: #0a0b10;
@@ -507,7 +507,7 @@ img {
 .title {
   margin-top: 20px;
   margin-bottom: 15px;
-  background: linear-gradient(to right, #211f26 45%, #171717);
+  background: linear-gradient(to right, #2a2a2f 45%, #171717);
   color: #d9d9d9;
   padding-left: 5px;
   padding-bottom: 2px;
@@ -516,7 +516,7 @@ img {
   border: 1px solid #535353;
 
   @include mobile {
-    background: linear-gradient(to right, #211f26 45%, #211f26);
+    background: linear-gradient(to right, #2a2a2f 45%, #2a2a2f);
   }
 }
 
@@ -603,7 +603,7 @@ img {
     color: #d9d9d9;
     font-size: 15px;
     margin: 15px 0;
-    background: #211f26;
+    background: #2a2a2f;
   }
 
   .comments {
@@ -621,7 +621,7 @@ img {
 }
 
 table {
-  background: #211f26;
+  background: #2a2a2f;
   padding: 5px;
   display: block;
   width: max-content;
@@ -649,7 +649,7 @@ table tr th {
   text-align: left;
   margin: 0;
   padding: 2px 6px;
-  background: #211f26;
+  background: #2a2a2f;
 }
 
 .info table tr th
@@ -700,7 +700,7 @@ table tr td :last-child {
 }
 
 .info table {
-  background: #211f26;
+  background: #2a2a2f;
   padding: 0;
   border: 0;
 }
@@ -887,7 +887,7 @@ code table tr {
 {
     text-align: left;
     border-top: 1px solid #535353;
-    background: #211f26;
+    background: #2a2a2f;
     color: #d9d9d9;
 }
 
