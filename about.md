@@ -15,9 +15,8 @@ permalink: /about.html
 `Lunar RF Labs` is a `RF` electronics design laboratory that provides wireless
 `IoT` design and prototyping services.
 
-Founded in `2021` by an electrical engineer passionate about wireless `IoT` research
-and development, `LunarRF™` modules bring low cost, mission-critical performance to
-your next `IoT` project.
+Founded in `2021` by an electrical engineer passionate about wireless `IoT` research and development,
+`LunarRF™` modules deliver next-generation functionality at a cost-effective price — power your next `IoT` project.
 
 > We are Lunar RF Labs, a wireless IoT design laboratory.<br>
 [labs.lunar.sh](https://labs.lunar.sh)
