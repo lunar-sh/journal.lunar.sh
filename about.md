@@ -18,7 +18,7 @@ permalink: /about.html
 Founded in `2021` by an electrical engineer passionate about wireless `IoT` research and development,
 `LunarRF™` modules deliver reliable `LoRaWAN®` functionality for your next `IoT` project.
 
-> We are Lunar RF Labs, a wireless IoT design laboratory.<br>
+> We are Lunar RF Labs, a wireless IoT engineering lab.<br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
 # Capabilities
