@@ -7,7 +7,7 @@ permalink: /about.html
 <meta name="robots" content="noindex">
 
 1. [Lunar RF Labs](#lunar-rf-labs)
-2. [R&D Laboratory](#rd-Laboratory)
+2. [R&D Laboratory](#laboratory)
 3. [Support Us](#support-us)
 
 # Lunar RF Labs
@@ -21,7 +21,7 @@ Founded in `2021` by an electrical engineer passionate about wireless `IoT` rese
 > Deployment-ready LoRaWAN® modules, online in minutes <br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
-# R&D Laboratory
+# Laboratory
 
 Equipment List:
 
