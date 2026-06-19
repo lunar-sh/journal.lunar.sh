@@ -7,7 +7,7 @@ permalink: /about.html
 <meta name="robots" content="noindex">
 
 1. [Lunar RF Labs](#lunar-rf-labs)
-2. [R&D Laboratory](#laboratory)
+2. [Laboratory](#laboratory)
 3. [Support Us](#support-us)
 
 # Lunar RF Labs
