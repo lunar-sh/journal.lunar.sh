@@ -16,23 +16,18 @@ permalink: /about.html
 `IoT` design and prototyping services.
 
 Founded in `2021` by an electrical engineer passionate about wireless `IoT` research and development,
-`LunarRF™` modules deliver reliable `LoRaWAN®` functionality for your next `IoT` project.
+`LunarRF™` modules deliver reliable `Wi-Fi` functionality for your next `IoT` project.
 
 > Deployment-ready LoRaWAN® modules, online in minutes <br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
-# Capabilities
-
-Currently the `R&D lab` is well equipped for `LoRa®` based wireless design up to `1 GHz`.
-
-<img style="margin: 0;" src="https://journal.lunar.sh/images/lab_latest.jpeg"/>
+# R&D Laboratory
 
 Equipment List:
 
 | Category               | Model                  | Specifications          |
 |------------------------|------------------------|-------------------------|
 | Digital Oscilloscope   | Rigol DS1202Z-E        | 0-250 MHz               |
-| Vector Network Analyzer| Siglent SVA1015X       | 0-1.5 GHz               |
 | Bench Multimeter       | Rigol DM3068           | 6.5 digit               |
 | Function Generator     | GW Instek GFG-8215A    | 0-3 MHz                 |
 | Power Supply           | Rigol DP832            | 30V / 3A                |
