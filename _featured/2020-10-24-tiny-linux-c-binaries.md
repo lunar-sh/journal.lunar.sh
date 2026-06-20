@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2020-10-24
 title: Tiny C Binaries
 author: Dylan Müller
 ---
