@@ -42,12 +42,6 @@ kramdown:
 sass:
   style: :expanded
 
-collections:
-  featured:
-    output: true
-    permalink: /:year/:title.html
-    sort_by: 'date'
-
 gems:
   - jekyll-feed
   - jekyll-sitemap
