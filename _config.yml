@@ -48,7 +48,7 @@ collections:
     permalink: /:year/:title.html
     sort_by: 'date'
 
-jekyll-feed:
+jekyll_feed:
   collections:
     - featured
 
