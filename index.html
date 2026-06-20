@@ -2,9 +2,12 @@
 layout: default
 ---
 
+{% assign featured_posts = site.posts | where_exp: "item", "item.categories contains 'featured'" %}
+{% assign normal_posts = paginator.posts | where_exp: "item", "item.categories contains 'featured' != true" %}
+
 <div id="main" role="main" class="index">
   <div class="posts">
-    {% assign sorted_featured = site.posts | where: "categories", "featured" | sort: 'date' | reverse %}
+    {% assign sorted_featured = featured_posts | sort: 'date' | reverse %}
     {% for post in sorted_featured %}
     <article class="post">
       <header>
@@ -17,18 +20,16 @@ layout: default
     </article>
     {% endfor %}
     <h1 id="pubs" class="title">Other Publications</h1>
-    {% for post in paginator.posts %}
-      {% unless post.categories contains 'featured' %}
-      <article class="post">
-        <header>
-          <span title="format: yyyy-mm-dd">{{ post.date | date: "%Y-%m-%d" }} @ journal.lunar.sh</span>
-          <div>
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          </div>
-          <div class="excerpt">{{ post.excerpt }}</div>
-        </header>
-      </article>
-      {% endunless %}
+    {% for post in normal_posts %}
+    <article class="post">
+      <header>
+        <span title="format: yyyy-mm-dd">{{ post.date | date: "%Y-%m-%d" }} @ journal.lunar.sh</span>
+        <div>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </div>
+        <div class="excerpt">{{ post.excerpt }}</div>
+      </header>
+    </article>
     {% endfor %}
     <div class="pagination">
       <span class="page_number ">
