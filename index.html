@@ -2,25 +2,10 @@
 layout: default
 ---
 
-{% assign featured_posts = site.posts | where_exp: "item", "item.categories contains 'featured'" %}
-{% assign normal_posts = paginator.posts | where_exp: "item", "item.categories contains 'featured' != true" %}
-
 <div id="main" role="main" class="index">
   <div class="posts">
-    {% assign sorted_featured = featured_posts | sort: 'date' | reverse %}
-    {% for post in sorted_featured %}
-    <article class="post">
-      <header>
-        <span title="format: yyyy-mm-dd">{{ post.date | date: "%Y-%m-%d" }} @ journal.lunar.sh</span>
-        <div>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </div>
-        <div class="excerpt">{{ post.excerpt }}</div>
-      </header>
-    </article>
-    {% endfor %}
-    <h1 id="pubs" class="title">Other Publications</h1>
-    {% for post in normal_posts %}
+    <h1 id="pubs" class="title">Publications</h1>
+    {% for post in paginator.posts %}
     <article class="post">
       <header>
         <span title="format: yyyy-mm-dd">{{ post.date | date: "%Y-%m-%d" }} @ journal.lunar.sh</span>
@@ -47,7 +32,6 @@ layout: default
     </div>
     <hr>
   </div>
-  <h1 class="title">Featured Publications</h1>
   <div class="aside-container">
     <div class="avatar">
       <a href="https://www.nasa.gov/mission/apollo-11/">
