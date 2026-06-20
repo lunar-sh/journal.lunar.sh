@@ -48,9 +48,9 @@ collections:
     permalink: /:year/:title.html
     sort_by: 'date'
 
-jekyll_feed:
+feed:
   collections:
-    - featured
+    featured: null
 
 gems:
   - jekyll-feed
