@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2020-12-11
 title: Mono/.NET Injection Under Linux
 author: Dylan Müller
 ---

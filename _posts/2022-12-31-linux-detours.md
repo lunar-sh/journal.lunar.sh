@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2022-12-31
 title: A Tiny C (x86_64) Function Hooking Library
 author: Dylan Müller
 ---

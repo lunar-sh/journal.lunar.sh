@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2020-11-03
 title: Transistor Circuit Design For Newbies
 author: Dylan Müller
 ---
