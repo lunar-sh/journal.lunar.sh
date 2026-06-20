@@ -54,6 +54,13 @@ gems:
   - jekyll-github-metadata
   - jemoji
 
+feed:
+  collections:
+    posts:
+      output: true
+    featured:
+      output: true
+
 plugins:
   - jekyll-paginate
 
