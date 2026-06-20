@@ -48,10 +48,6 @@ collections:
     permalink: /:year/:title.html
     sort_by: 'date'
 
-feed:
-  collections:
-    - featured
-
 gems:
   - jekyll-feed
   - jekyll-sitemap
@@ -60,6 +56,11 @@ gems:
 
 plugins:
   - jekyll-paginate
+
+feed:
+  collections:
+    - posts
+    - featured
 
 paginate: 5
 paginate_path: '/page/:num/'
