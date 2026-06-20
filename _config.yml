@@ -50,7 +50,7 @@ collections:
 
 feed:
   collections:
-    featured: null
+    - featured
 
 gems:
   - jekyll-feed
