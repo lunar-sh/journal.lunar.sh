@@ -4,7 +4,7 @@ layout: default
 
 <div id="main" role="main" class="index">
   <div class="posts">
-    {% assign sorted_featured = site.featured | sort: 'date' | reverse %}
+    {% assign sorted_featured = site.categories.featured | sort: 'date' | reverse %}
     {% for post in sorted_featured %}
     <article class="post">
       <header>
