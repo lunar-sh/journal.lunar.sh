@@ -48,18 +48,14 @@ collections:
     permalink: /:year/:title.html
     sort_by: 'date'
 
+jekyll-feed:
+  collections:
+    - featured
 gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-github-metadata
   - jemoji
-
-feed:
-  collections:
-    posts:
-      output: true
-    featured:
-      output: true
 
 plugins:
   - jekyll-paginate
