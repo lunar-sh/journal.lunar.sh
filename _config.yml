@@ -51,6 +51,7 @@ collections:
 jekyll-feed:
   collections:
     - featured
+
 gems:
   - jekyll-feed
   - jekyll-sitemap
