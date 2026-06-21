@@ -18,7 +18,7 @@ permalink: /about.html
 Founded in `2021` by an electrical engineer passionate about wireless `IoT` research and development,
 `LunarRF™` modules deliver reliable `Wi-Fi` functionality for your next `IoT` project.
 
-> Deployment-ready `Wi-Fi` `IoT` modules. Online in minutes. <br>
+> Deployment-ready `IoT` modules. Online in minutes. <br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
 # Laboratory
