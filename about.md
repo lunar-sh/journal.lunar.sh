@@ -7,7 +7,6 @@ permalink: /about.html
 <meta name="robots" content="noindex">
 
 1. [Lunar RF Labs](#lunar-rf-labs)
-2. [Laboratory](#laboratory)
 3. [Support Us](#support-us)
 
 # Lunar RF Labs
@@ -20,19 +19,6 @@ Founded in `2021` by an electrical engineer passionate about wireless `IoT` rese
 
 > Deployment-ready `IoT` modules. Online in minutes. <br>
 [labs.lunar.sh](https://labs.lunar.sh)
-
-# Laboratory
-
-Equipment List:
-
-| Category               | Model                  | Specifications          |
-|------------------------|------------------------|-------------------------|
-| Digital Oscilloscope   | Rigol DS1202Z-E        | 0-250 MHz               |
-| Bench Multimeter       | Rigol DM3068           | 6.5 digit               |
-| Function Generator     | GW Instek GFG-8215A    | 0-3 MHz                 |
-| Power Supply           | Rigol DP832            | 30V / 3A                |
-| Soldering Station      | RS PRO 202-4487        | 65W                     |
-| Hot Air Station        | RS PRO 124-4133        | 700W                    |
 
 # Support Us
 
